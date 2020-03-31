@@ -1388,9 +1388,7 @@
 |[microsoft/automatic-graph-layout](https://github.com/microsoft/automatic-graph-layout)|A set of tools for graph layout and viewing|868|
 |[microsoft/node-v0.12](https://github.com/microsoft/node-v0.12)|Enable Node.js to use Chakra as its JavaScript engine.|799|
 |[microsoft/typescript-styled-plugin](https://github.com/microsoft/typescript-styled-plugin)|TypeScript server plugin that adds intellisense to styled component css strings|593|
-|[microsoft/HealthClinic.biz](https://github.com/microsoft/HealthClinic.biz)|The samples contained in this repo are used to present an end-to-end demo scenario based on a fictitious B2B and multitenant system, named “HealthClinic.biz” that provides different websites, mobile apps, desktop apps, wearable apps, and services running on the latest Microsoft and open technologies aligned with announcements to showcase during the Connect(); 2015 event.
-
-The current published version works with Visual Studio 2015 Update 1 RC bits and ASP.NET 5.0 Beta 8. The final version used at Connect(); 2015 will be published soon.|471|
+|[microsoft/HealthClinic.biz](https://github.com/microsoft/HealthClinic.biz)|The samples contained in this repo are used to present an end-to-end demo scenario based on a fictitious B2B and multitenant system, named “HealthClinic.biz” that provides different websites, mobile apps, desktop apps, wearable apps, and services running on the latest Microsoft and open technologies aligned with announcements to showcase during the Connect(); 2015 event. The current published version works with Visual Studio 2015 Update 1 RC bits and ASP.NET 5.0 Beta 8. The final version used at Connect(); 2015 will be published soon.|471|
 |[microsoft/BikeSharing360_MobileApps](https://github.com/microsoft/BikeSharing360_MobileApps)|Beautiful, cross-platform native mobile apps for BikeSharing360.|422|
 |[microsoft/ApplicationInsights-JS](https://github.com/microsoft/ApplicationInsights-JS)|Microsoft Application Insights SDK for JavaScript|380|
 |[microsoft/PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples)|A collection of Power BI samples for developer use.|376|
